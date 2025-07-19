@@ -207,9 +207,6 @@ footer{
     justify-content: center;
     gap: 16px;
 }
-.icon-container > img{
-    width: 32px;
-}
 
 /* small device styles */
 @media screen and (max-width:576px) {
